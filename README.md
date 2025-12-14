@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskrishna21&label=Profile%20views&color=0e75b6&style=flat" alt="itskrishna21" /> </p>
 
-- 🔭 I’m currently working on [ShoAgain](https://apps.apple.com/au/app/shotagain-glp-1-all-in-1-app/id6753099485)
+- 🔭 I’m currently working on [ShotAgain](https://apps.apple.com/au/app/shotagain-glp-1-all-in-1-app/id6753099485)
 
 - 🌱 I’m currently learning **about AI agents and how to build them**
 
